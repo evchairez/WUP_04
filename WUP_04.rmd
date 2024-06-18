@@ -43,6 +43,8 @@ basicCN <- ggplot(mydata,aes(x=DEGREE,y=WORDSUM))
 basicCN + geom_boxplot()
 ```
 
+By looking at this data the graduate and junior college boxes were above high school as well as LT high school. The graduate and bachelor boxes would bump into each other being that they are both close. Graduate school and LT high school are different. Graduate and high school are different as well. 
+
 ### Numerical Descriptive Results
 
 <!--Numerical results go here. Use the numerical results to describe the patterns if any that exist in the data as focused toward the research question!-->
